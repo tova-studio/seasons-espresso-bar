@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T02:06:39.257Z",
+  "slug": "cathedraljunction",
+  "name": "Seasons Espresso Bar",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Cafes",
+    "niche": "cafes",
+    "group": "Food & hospitality"
+  },
+  "contact": {
+    "phone": "+6433665204",
+    "address": "113 Worcester St, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/285641299055150"
+  },
+  "about": {
+    "overview": "If you see this page, the nginx web server is successfully installed and working. Further configuration is required.",
+    "tagline": "Welcome to nginx!"
+  },
+  "before": {
+    "url": "http://www.cathedraljunction.co.nz",
+    "domain": "cathedraljunction.co.nz",
+    "score": 70,
+    "assessedAt": "2026-11-23T13:17:20.335Z",
+    "issues": [
+      {
+        "id": "unreachable",
+        "title": "Website did not load",
+        "evidence": "Request to http://www.cathedraljunction.co.nz failed (HTTP 200)."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/seasons-espresso-bar/",
+    "repoUrl": "https://github.com/tova-studio/seasons-espresso-bar",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T02:06:39.257Z"
+  }
+}
